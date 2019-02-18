@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js --exec babel-node -e js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "apollo-server": "^2.3.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
