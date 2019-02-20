@@ -1,3 +1,5 @@
+WIP:
+
 <h1>Getting Started</h1>
 
 **To load up from scratch:**
@@ -7,11 +9,11 @@
 3. Run `cd server && yarn`
 4. To start up the client `yarn start` from the root
 
-**To start Caffè:**
+**To start:**
 
 1. Run `yarn start` inside root
 
-**To manually start Caffettiera (GraphQL Server), connected with Macinacaffè (MongoDB Atlas):**
+**To manually start GraphQL Server, connected with your MongoDB URI:**
 
 1. Run `cd server`
 2. Run `yarn start`
