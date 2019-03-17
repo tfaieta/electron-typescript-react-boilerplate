@@ -10,10 +10,10 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "apollo-server": "^2.3.2",
+    "apollo-server": "^2.4.8",
     "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.4.7"
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.19"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

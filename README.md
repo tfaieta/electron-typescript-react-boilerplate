@@ -1,6 +1,4 @@
-WIP:
-
-<h1>Getting Started</h1>
+# Getting Started
 
 **To load up from scratch:**
 
@@ -25,7 +23,7 @@ WIP:
 7. Run `prisma generate` _generates Prisma-Schema_
 8. Run `prisma playground` _to interact/demo with database_
 
-<h1>Helpful Links</h1>
+## Helpful Links
 
 [Electron Tutorial - Getting Started](https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/)
 
